@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[namalog]]></title>
-  <link href="http://namacode.github.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: log | namalog]]></title>
+  <link href="http://namacode.github.com/blog/categories/log/atom.xml" rel="self"/>
   <link href="http://namacode.github.com/"/>
   <updated>2012-11-29T14:13:12+09:00</updated>
   <id>http://namacode.github.com/</id>
@@ -20,7 +20,7 @@
     <id>http://namacode.github.com/blog/2012/11/29/first-post</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/in_front_of_library.jpg" width="800" title="in front of library" ></p>
+<p><img class="photo" src="/images/posts/in_front_of_library.jpg" width="800" title="in front of library" ></p>
 ]]></content>
   </entry>
   
