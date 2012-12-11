@@ -1,19 +1,19 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <urlset xmlns='http://www.sitemaps.org/schemas/sitemap/0.9'>
     <url>
-        <loc>http://namacode.github.com/blog/2012/11/29/first-post/</loc>
-        <lastmod>2012-11-29T14:13:12+09:00</lastmod>
+        <loc>http://aima.namacode.asia/blog/2012/11/29/first-post/</loc>
+        <lastmod>2012-12-11T14:16:32+09:00</lastmod>
     </url>
     <url>
-        <loc>http://namacode.github.com/blog/2012/12/10/open-photoshop-from-aperture/</loc>
-        <lastmod>2012-12-10T21:21:01+09:00</lastmod>
+        <loc>http://aima.namacode.asia/blog/2012/12/10/open-photoshop-from-aperture/</loc>
+        <lastmod>2012-12-11T14:16:32+09:00</lastmod>
     </url>
     <url>
-        <loc>http://namacode.github.com/blog/archives/</loc>
-        <lastmod>2012-12-10T21:21:01+09:00</lastmod>
+        <loc>http://aima.namacode.asia/blog/archives/</loc>
+        <lastmod>2012-12-11T14:16:32+09:00</lastmod>
     </url>
     <url>
-        <loc>http://namacode.github.com/</loc>
-        <lastmod>2012-12-10T21:21:01+09:00</lastmod>
+        <loc>http://aima.namacode.asia/</loc>
+        <lastmod>2012-12-11T14:16:32+09:00</lastmod>
     </url>
 </urlset>

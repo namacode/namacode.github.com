@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[namalog]]></title>
-  <link href="http://namacode.github.com/atom.xml" rel="self"/>
-  <link href="http://namacode.github.com/"/>
-  <updated>2012-12-10T21:21:01+09:00</updated>
-  <id>http://namacode.github.com/</id>
+  <title><![CDATA[aima]]></title>
+  <link href="http://aima.namacode.asia/atom.xml" rel="self"/>
+  <link href="http://aima.namacode.asia/"/>
+  <updated>2012-12-11T15:10:59+09:00</updated>
+  <id>http://aima.namacode.asia/</id>
   <author>
     <name><![CDATA[namacode]]></name>
     
@@ -15,28 +15,28 @@
   
   <entry>
     <title type="html"><![CDATA[Open Photoshop from Aperture]]></title>
-    <link href="http://namacode.github.com/blog/2012/12/10/open-photoshop-from-aperture/"/>
+    <link href="http://aima.namacode.asia/blog/2012/12/10/open-photoshop-from-aperture/"/>
     <updated>2012-12-10T19:48:00+09:00</updated>
-    <id>http://namacode.github.com/blog/2012/12/10/open-photoshop-from-aperture</id>
+    <id>http://aima.namacode.asia/blog/2012/12/10/open-photoshop-from-aperture</id>
     <content type="html"><![CDATA[<p>Aperture has <em>External Photo Editor</em> option. I set Photoshop to it.</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/open-photoshop-from-aperture1.png"></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/open-photoshop-from-aperture1.png"></p>
 
 <p>View a photo to edit and right click it.</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/open-photoshop-from-aperture2.png" width="800"></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/open-photoshop-from-aperture2.png" width="800"></p>
 
 <p>Choose <em>Edit with Adobe Photoshop&#8230;</em> and open the photo in Photoshop.</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/open-photoshop-from-aperture3.png"></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/open-photoshop-from-aperture3.png"></p>
 
 <p>As an example, I added a layer.</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/open-photoshop-from-aperture4.png"></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/open-photoshop-from-aperture4.png"></p>
 
 <p>Save and close Photoshop. Aperture created a new version, which includes the change on Photoshop.</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/open-photoshop-from-aperture5.png" width="800"></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/open-photoshop-from-aperture5.png" width="800"></p>
 
 <p>Aperture keeps the file created by Photoshop. So I can edit the layer again.</p>
 ]]></content>
@@ -44,12 +44,12 @@
   
   <entry>
     <title type="html"><![CDATA[First Post]]></title>
-    <link href="http://namacode.github.com/blog/2012/11/29/first-post/"/>
+    <link href="http://aima.namacode.asia/blog/2012/11/29/first-post/"/>
     <updated>2012-11-29T09:47:00+09:00</updated>
-    <id>http://namacode.github.com/blog/2012/11/29/first-post</id>
+    <id>http://aima.namacode.asia/blog/2012/11/29/first-post</id>
     <content type="html"><![CDATA[<p>Hello, world!</p>
 
-<p><img class="photo" src="http://namacode.github.com/images/posts/in_front_of_library.jpg" width="800" title="in front of library" ></p>
+<p><img class="photo" src="http://aima.namacode.asia/images/posts/in_front_of_library.jpg" width="800" title="in front of library" ></p>
 ]]></content>
   </entry>
   
